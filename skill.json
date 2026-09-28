@@ -1,0 +1,19 @@
+{
+  "name": "genpark-geodesy-haversine-vincenty-distance-skill",
+  "version": "1.0.0",
+  "description": "Geodesic ellipsoidal and spherical distance calculations via Haversine formula and Vincenty inverse solution on WGS-84",
+  "category": "Service",
+  "tags": [
+    "mcp",
+    "gis",
+    "geodesy",
+    "vincenty-formula",
+    "haversine",
+    "wgs84-ellipsoid",
+    "great-circle-distance",
+    "python-standard-library",
+    "agent-skills",
+    "spatial-geometry",
+    "navigation-algorithms"
+  ]
+}
