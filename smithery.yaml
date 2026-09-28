@@ -1,0 +1,5 @@
+name: genpark-geodesy-haversine-vincenty-distance-skill
+description: Geodesic ellipsoidal and spherical distance calculations via Haversine formula and Vincenty inverse solution on WGS-84
+version: 1.0.0
+runtime: python
+entrypoint: mcp_server.py
