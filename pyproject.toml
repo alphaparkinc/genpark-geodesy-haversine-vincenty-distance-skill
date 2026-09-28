@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-geodesy-haversine-vincenty-distance-skill"
+version = "1.0.0"
+description = "Geodesic ellipsoidal and spherical distance calculations via Haversine formula and Vincenty inverse solution on WGS-84"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
